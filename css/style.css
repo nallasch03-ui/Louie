@@ -16,11 +16,16 @@ background-color: #ffcc01;
 padding: 20px;
 }
 
-header img{
+header .pfp{
     width: 350px;
     height: 350px;
     border: 12px solid #9BCD5A;
     border-radius: 50%;
+    background-image: url('./../img/Louiesaludo.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 110%;
+    margin: 0 auto;
 }
 header h1{
   font-family: "Jua", sans-serif;
