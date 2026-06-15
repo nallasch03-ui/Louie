@@ -57,6 +57,9 @@ header .pfp{
     margin: 0 auto;
 }
 
+article-body{
+    text-align: justify;
+}
 
 h1{
   font-family: "Margarine", sans-serif; 
