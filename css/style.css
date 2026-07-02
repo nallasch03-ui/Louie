@@ -37,6 +37,7 @@ p.caption{
     color: rgb(195, 193, 193);
     font-style: oblique;
     margin-top: 0;
+        style="white-space: pre-wrap; transition-timing-function: e ase; transition-duration: 0.6s; transition-delay: 0.204s;"
 }
 
 header{
@@ -57,8 +58,13 @@ header .pfp{
     margin: 0 auto;
 }
 
-article-body{
+p.article-body{
     text-align: justify;
+}
+
+p.preFade-fadein
+{
+    style="white-space: pre-wrap; transition-timing-function: e ase; transition-duration: 0.6s; transition-delay: 0.204s;"
 }
 
 h1{
@@ -67,6 +73,7 @@ h1{
   font-style: normal;
   font-size: 80px;
    margin: 15px 0 25px 0;
+       style="white-space: pre-wrap; transition-timing-function: e ase; transition-duration: 0.6s; transition-delay: 0.204s;"
 }
 
 h2{
@@ -76,6 +83,7 @@ h2{
   font-size: 40px;
    margin:  20px 0;
    color: #9BCD5A;
+       style="white-space: pre-wrap; transition-timing-function: e ase; transition-duration: 0.6s; transition-delay: 0.204s;"
 }
 
 main{
